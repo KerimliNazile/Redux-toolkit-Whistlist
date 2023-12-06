@@ -1,0 +1,17 @@
+button{
+    transition: 0.2s;
+   
+}
+.close{
+    font-size: 18px;
+}
+button:hover .close{
+    font-size: 25px;
+    color: brown;
+    transition: 0.4s;
+}
+button:hover .heart{
+    font-size: 25px;
+    color: brown;
+    transition: 0.4s;
+}
